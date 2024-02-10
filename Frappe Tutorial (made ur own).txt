@@ -1,0 +1,50 @@
+Greeting.msg: {put ur own message}
+
+------------------------------------------------------
+
+Troll Simulation: 
+
+Say "We don't serve that sorry"
+Say "Please order correctly"
+Say "Please order correctly or i will have to warn you"
+Say "/support"
+{you can change this}
+
+------------------------------------------------------
+
+Recipes:
+Regular: Regular Machine = Regular
+Regular w/ Cream: Regular + Cream = Regular w/ Cream
+Decaf: Decaf Machine = Decaf
+Decaf w/ Cream: Decaf + Cream = Decaf w/ Cream
+Espresso: Espresso Machine = Espresso
+Steamed Milk: Steamed Milk Machine = Steamed Milk
+Steamed Water: Steamed Water Machine = Steamed Water
+
+Latte: Espresso + Steamed Milk = Latte
+Mocha: Espresso + Steamed Milk + Mocha Sauce = Mocha
+Cappuccino: Steamed Milk + Espresso = Cappuccino
+Macchiato: Espresso + Cream = Macchiato
+Americano: Espresso + Ice = Americano
+Frappuccino/Frappe: Steamed Milk + Regular + Ice = Frappe
+Flat White: Espresso + Steamed Milk (Latte) + Cream = Flat White
+
+Green Tea: Steamed Water + Green Tea = Green Tea                                                                                                                                                                                   
+White Tea: Steamed Water + White Tea = White Tea
+Black Tea: Steamed Water + Black Tea = Black Tea
+Peach Tea: Steamed Water + Peach Tea = Peach Tea
+Passion Fruit Tea: Steamed Water + Passion Fruit Tea = Passion Fruit Tea
+
+Hot Chocolate: Mocha Sauce + Steamed Milk = Hot Chocolate
+Hot Chocolate w/ Cream: Mocha Sauce + Steamed Milk + Cream = Hot Chocolate w/ Cream
+Milkshakes: Milk + Flavor + Mixer = Milkshake
+Smoothies: Ice + Blender + Flavor + Blender = Smoothie
+Slushies: Ice + Flavor + Blender = Slushie
+
+Lemonade: Steamed Water + Lemon + Ice = Lemonade
+Boba/Bubble Tea: Flavored Powder + Steamed Water + Chiller + Shaker + Ice + Shaker + Tapioca Pearls
+Flavored Powders currently available: Lychee, Taro, Strawberry, Mango, and future flavors.
+
+Ice Cream: Ice Cream Cone + Flavor Machine
+
+Flavors: Slushies, Smoothies, Milkshakes, Macchiato, Cappuccino, Mocha, Latte, and Frappe are available in Red Velvet, Hazelnut, Strawberry, Peppermint, Cinnamon, Vanilla Bean, Raspberry, White Chocolate, Caramel, Banana, Pumpkin Spice, Cotton Candy, Lemon, Mint, Cookie Dough, Orange, Cherry, Blueberry, Mango, Watermelon, Honey, Passion Fruit, and future flavors.
